@@ -1,3 +1,4 @@
+Executavél em qualquer compilador de C#
 Informativo:
 O código em C# implementa um programa de console com um menu interativo que oferece diversas funcionalidades relacionadas a manipulação de arquivos, análise de frases, validação de parênteses, operações com pilhas, informações sobre Noam Chomsky, execução de uma máquina de Turing, e ordenação de arrays usando o Bubble Sort. A seguir, uma descrição rápida de cada funcionalidade:
 
